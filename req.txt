@@ -1,0 +1,6 @@
+nltk
+pydub
+simplejson
+yt_dlp
+ffmpeg
+ffprobe
